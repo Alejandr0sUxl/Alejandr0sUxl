@@ -11,16 +11,9 @@ For updates and further information, please visit our GitHub repository and join
 
 If you would like to get in touch with me, here are the best ways to contact me:
 
-[![discord](https://skillicons.dev/icons?i=eclipse)](https://github.com/Alejandr0sUxl/Alejandr0sUxl)   
-
-
-AlejandrOsUxl@gmail.com
-
 
 [![discord](https://skillicons.dev/icons?i=discord)](https://github.com/Alejandr0sUxl/Alejandr0sUxl)  
-
-
- [u.uguerrero](discord.gg/u.uguerrero).
+ [@u.uguerrero](discord.gg/@u.uguerrero).
 
 For direct communication or detailed inquiries, feel free to send me an email. I am happy to discuss any questions, feedback, or potential collaborations.
 I look forward to connecting with you and exploring opportunities to work together. Thank you for your interest.
