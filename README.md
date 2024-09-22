@@ -1,5 +1,5 @@
 [![discord](https://skillicons.dev/icons?i=discord)](https://github.com/Alejandr0sUxl/Alejandr0sUxl)  
- [@u.uguerrero](discord.gg/@AlejandrOsUxl).
+ [@Alejandro](discord.gg/@AlejandrOsUxl).
 
 
 [![Languages and Tools](https://skillicons.dev/icons?i=java,idea)](https://github.com/Alejandr0sUxl/Alejandr0sUxl)
